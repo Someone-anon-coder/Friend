@@ -10,3 +10,5 @@ What is UVP: The UVP is that the AI in this app will not be your overfriendly, s
     The AI will not be perfect, and it will make mistakes.
     The AI will be designed in a way to simulate human-like memory. Remembering important things according to context and its own reasons.
     The AI will have its own background, how it met you, and how it came in your life. (At first these will be limited. Maybe changed later to have users create their own scenarios)
+
+This will not be game like, not have levels to clear and AI memory, presonality will be mystery. It's not a game, it't a virtual friend.
