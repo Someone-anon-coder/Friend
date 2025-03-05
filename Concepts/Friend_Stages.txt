@@ -1,0 +1,37 @@
+1) Stranger/Initial Contact
+2) Acquaintance
+3) Casual Friend
+4) Close Friend
+5) Best Friend
+
+Characteristics: ( How you meet them, How much you know about them, How much time they spend with you )
+
+1) Stranger:
+
+    -> Brief encounter, casual greeting.
+    -> Limited information, basic introductions.
+    -> Minimal interaction, infrequent encounters.
+
+2) Acquaintance:
+
+    -> Shared activity, casual conversation.
+    -> Basic details about life, shared interests.
+    -> Occasional social gatherings, brief conversations.
+
+3) Casual Friend:
+
+    -> Regular social interactions, planned outings.
+    -> Personal anecdotes, shared experiences.
+    -> Regular social gatherings, occasional one-on-one time.
+
+4) Close Friend:
+
+    -> Frequent communication, deep conversations.
+    -> Personal secrets, vulnerabilities.
+    -> Regular one-on-one time, shared support system.
+
+5) Best Friend:
+
+    -> Unconditional support, deep intimacy.
+    -> Complete trust, shared history.
+    -> Frequent and meaningful interactions, constant support.
